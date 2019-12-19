@@ -1,0 +1,24 @@
+#!/bin/bash
+#PBS -q small
+#PBS -l mem=8G
+#set -euo pipefail
+
+cd ${PBS_O_WORKDIR}
+
+mkdir -p analysis/WCA2 && cd $_
+
+# start
+echo; echo "[$(date)] $0 job has been started."
+
+# run_g_codon_mva.pl
+#cp ../../data/dataset3/*.gbff .
+#for filename in *.gbff; do mv $filename ${filename%.gbff}.gbk; done
+
+#python ../../scripts/list.py "./*.gbk" > list.txt
+#for GBK in $(cut -f2 list.txt); do (time perl -I/home/haruo/g-language-1.9.1/lib ../../scripts/run_g_codon_mva.pl "${GBK}" ) > log.$(date +%F).$GBK.txt; mv table.R0.csv table.$GBK.R0.csv; mv table.wca.R0.csv table.$GBK.wca.R0.csv; done
+
+python ../../scripts/list.py "../../data/dataset3/*.gbff" > list.txt
+for GBK in $(cut -f1 list.txt); do (time perl -I/home/haruo/g-language-1.9.1/lib ../../scripts/run_g_codon_mva.pl "${GBK}" ) > log.$(date +%F).$GBK.txt; mv table.R0.csv table.$GBK.R0.csv; mv table.wca.R0.csv table.$GBK.wca.R0.csv; done
+
+# Done
+echo; echo "[$(date)] $0 has been successfully completed."
