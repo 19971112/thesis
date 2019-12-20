@@ -20,9 +20,7 @@ bash scripts/1_make_replacelist.sh
 qsub scripts/2_DL_dataset.sh
 
 # 16S rRNAに基づく系統解析
-qsub scripts/16S_phylogeny_2019-11-04.sh
-qsub scripts/16S_phylogeny.sh
-qsub scripts/16S_phylogeny2.sh
+qsub scripts/3_16S_phylogeny2.sh
 
 # RSCUの解析
 qsub scripts/RSUC.sh
