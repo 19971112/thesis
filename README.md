@@ -23,7 +23,7 @@ qsub scripts/2_DL_dataset.sh
 qsub scripts/3_16S_phylogeny2.sh
 
 # RSCUの解析
-qsub scripts/RSUC.sh
+qsub scripts/5_RSUC.sh
 
 # RSCUのヒートマップ
 qsub scripts/RSCU_heatmap.job
