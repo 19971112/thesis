@@ -24,4 +24,6 @@ cat DL_list3 | while read FILE; do LINE=$(echo $FILE | sed -n 1p); NAME=$(echo $
 wget -i DL_path3.txt
 gunzip *.gz
 
+cp /home/t16965tw/data/GSbR/Geobacter_sp._SbR.gbff .
+
 mv *.gbff dataset
