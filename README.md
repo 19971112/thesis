@@ -29,8 +29,7 @@ qsub scripts/RSUC.sh
 qsub scripts/RSCU_heatmap.job
 
 # ゲノムの特徴解析（総塩基数 Size、GC含量 GC、遺伝子数 tRNA rRNA cds highlyExpressed、コドン使用バイアス S_value delta_enc）
-bash scripts/genome_signature.sh
-bash scripts/genome_signature2.sh &
+bash scripts/4_genome_signature2.sh
 
 # 系統樹と表の並び替え
 qsub scripts/table_sort.job
