@@ -7,18 +7,17 @@ last-update 2019-12-20
 
 ```
 # git clone と更新
-git clone https://github.com/19971112/Geobacter.git
+git clone https://github.com/19971112/thesis.git
 mv *.sh.* job/
 mv *.job.* job/
 
 git pull origin master
 
 # 置換リストの作成
-bash scripts/make_replacelist.sh
+bash scripts/1_make_replacelist.sh
 
 # データセットの用意
-qsub scripts/DL_dataset_2019-11-04.sh
-qsub scripts/DL_dataset_2019-11-08.sh
+qsub scripts/2_DL_dataset.sh
 
 # 16S rRNAに基づく系統解析
 qsub scripts/16S_phylogeny_2019-11-04.sh
