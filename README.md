@@ -8,8 +8,8 @@ last-update 2019-12-20
 ```
 # git clone と更新
 git clone https://github.com/19971112/thesis.git
-mv *.sh.* job/
-mv *.job.* job/
+mv *.sh.* log/
+mv *.job.* log/
 
 git pull origin master
 
