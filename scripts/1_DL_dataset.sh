@@ -6,7 +6,7 @@
 cd ${PBS_O_WORKDIR}
 
 mkdir -p ./data && cd $_
-mkdir -p dataset3
+mkdir -p dataset
 
 # Downloading assembly_summary_refseq.txt files
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/assembly_summary_refseq.txt
@@ -24,4 +24,4 @@ cat DL_list3 | while read FILE; do LINE=$(echo $FILE | sed -n 1p); NAME=$(echo $
 wget -i DL_path3.txt
 gunzip *.gz
 
-mv *.gbff dataset3
+mv *.gbff dataset
