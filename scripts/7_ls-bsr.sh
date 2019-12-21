@@ -2,7 +2,7 @@
 #PBS -l ncpus=40
 #PBS -V
 cd ${PBS_O_WORKDIR}
-conda activate ls_bsr
+source activate ls_bsr
 
 mkdir -p analysis/ls-bsr && cd $_
 mkdir {data,db,query}
