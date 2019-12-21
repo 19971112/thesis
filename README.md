@@ -22,6 +22,7 @@ qsub scripts/2_DL_dataset.sh
 # 16S rRNAに基づく系統解析
 qsub scripts/3_16S_phylogeny2.sh
 
+
 # RSCUの解析
 qsub scripts/5_RSUC.sh
 
@@ -33,6 +34,10 @@ bash scripts/4_genome_signature2.sh
 
 # 系統樹と表の並び替え
 qsub scripts/table_sort.job
+
+# 比較ゲノム解析
+qsub scripts/7_ls-bsr.sh
+
 
 # 多変量解析
 qsub scripts/WCA.job
