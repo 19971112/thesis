@@ -12,6 +12,6 @@ for f in ./data/*.gbff; do python ../../scripts/gbk2fna.py $f; done
 mv data/*.fasta db
 
 # make query (faa)
-for f in ./data/*.gbff; do python ../../scripts/gbk2faa.py $f > ./data/$f.faa; done
-cat *.faa > all.faa
+for f in ./data/*.gbff; do python ../../scripts/gbk2faa.py $f > $f.faa; done
+cat data/*.faa > data/all.faa
 mv data/all.faa query
