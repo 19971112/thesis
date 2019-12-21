@@ -1,7 +1,8 @@
 #PBS -q small
-#PBS -l ncpus=1
+#PBS -l ncpus=40
 #PBS -V
 cd ${PBS_O_WORKDIR}
+conda activate ls_bsr
 
 mkdir -p analysis/ls-bsr && cd $_
 mkdir {data,db,query}
@@ -15,3 +16,6 @@ mv data/*.fasta db
 for f in ./data/*.gbff; do python ../../scripts/gbk2faa.py $f > $f.faa; done
 cat data/*.faa > data/all.faa
 mv data/all.faa query
+
+# run LS-BSR
+python /home/t16965tw/downloads/LS-BSR/ls_bsr.py -p 40 -d db -g query/all.faa
