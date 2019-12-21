@@ -1,10 +1,9 @@
-#!/bin/sh
 #PBS -q small
 #PBS -l ncpus=1
 #PBS -V
+cd ${PBS_O_WORKDIR}
 
 mkdir -p analysis/ls-bsr && cd $_
-
 mkdir {data,db,query}
 
 # make database (fna)
@@ -14,4 +13,5 @@ mv data/*.fasta db
 
 # make query (faa)
 for f in ./data/*.gbff; do python ../../scripts/gbk2faa.py $f > ./data/$f.faa; done
-
+cat *.faa > all.faa
+mv data/all.faa query
