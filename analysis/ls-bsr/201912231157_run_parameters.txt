@@ -1,0 +1,19 @@
+-d db \
+-i 0.9 \
+-f F \
+-p 12 \
+-g query/all.fasta \
+-c null \
+-b tblastn \
+-l 0.7 \
+-m 0.85 \
+-n 75 \
+-t F \
+-k F \
+-s T \
+-e F \
+-x NULL \
+-y F \
+-ml 0.9 \
+-z F
+temp data stored here if kept: /mnt/gpfsA/home/t16965tw/github/thesis/analysis/ls-bsr/201912231157

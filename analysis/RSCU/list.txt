@@ -1,0 +1,71 @@
+NC_009483.1	../../data/dataset/GCF_000016745.1_ASM1674v1_genomic.gbff	Geobacter uraniireducens Rf4, complete genome
+NZ_CP010430.1	../../data/dataset/GCF_000961035.1_ASM96103v1_genomic.gbff	Geobacter sulfurreducens strain AM-1 genome
+NC_011979.1	../../data/dataset/GCF_000022265.1_ASM2226v1_genomic.gbff	Geobacter daltonii FRC-32, complete genome
+NZ_AP017912.1	../../data/dataset/GCF_003574175.1_ASM357417v1_genomic.gbff	Geobacter sulfurreducens DNA, complete genome
+NC_012918.1	../../data/dataset/GCF_000023645.1_ASM2364v1_genomic.gbff	Geobacter sp. M21, complete genome
+NC_011891.1	../../data/dataset/GCF_000022145.1_ASM2214v1_genomic.gbff	Anaeromyxobacter dehalogenans 2CP-1, complete genome
+NC_010162.1	../../data/dataset/GCF_000067165.1_ASM6716v1_genomic.gbff	Sorangium cellulosum 'So ce 56' complete genome
+NC_020126.1	../../data/dataset/GCF_000331735.1_ASM33173v1_genomic.gbff	Myxococcus stipitatus DSM 14675, complete genome
+NZ_CP010311.1	../../data/dataset/GCF_000827125.1_ASM82712v1_genomic.gbff	Geoalkalibacter subterraneus strain Red1, complete genome
+NZ_CP009788.1	../../data/dataset/GCF_000817955.1_ASM81795v1_genomic.gbff	Geobacter pickeringii strain G13, complete genome
+BJBU01000001.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence01
+BJBU01000002.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence02
+BJBU01000003.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence03
+BJBU01000004.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence04
+BJBU01000005.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence05
+BJBU01000006.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence06
+BJBU01000007.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence07
+BJBU01000008.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence08
+BJBU01000009.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence09
+BJBU01000010.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence10
+BJBU01000011.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence11
+BJBU01000012.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence12
+BJBU01000013.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence13
+BJBU01000014.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence14
+BJBU01000015.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence15
+BJBU01000016.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence16
+BJBU01000017.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence17
+BJBU01000018.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence18
+BJBU01000019.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence19
+BJBU01000020.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence20
+BJBU01000021.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence21
+BJBU01000022.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence22
+BJBU01000023.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence23
+BJBU01000024.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence24
+BJBU01000025.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence25
+BJBU01000026.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence26
+BJBU01000027.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence27
+BJBU01000028.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence28
+BJBU01000029.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence29
+BJBU01000030.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence30
+BJBU01000031.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence31
+BJBU01000032.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence32
+BJBU01000033.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence33
+BJBU01000034.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence34
+BJBU01000035.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence35
+BJBU01000036.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence36
+BJBU01000037.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence37
+BJBU01000038.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence38
+BJBU01000039.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence39
+BJBU01000040.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence40
+BJBU01000041.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence41
+BJBU01000042.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence42
+BJBU01000043.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence43
+BJBU01000044.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence44
+BJBU01000045.[1]	../../data/dataset/Geobacter_sp._SbR.gbff	Geobacter sp. SbR DNA, sequence45
+NC_011146.1	../../data/dataset/GCF_000020725.1_ASM2072v1_genomic.gbff	Geobacter bemidjiensis Bem, complete genome
+NZ_CP042466.1	../../data/dataset/GCF_008330225.1_ASM833022v1_genomic.gbff	Geobacter sp. FeAm09 chromosome, complete genome
+NC_002939.5	../../data/dataset/GCF_000007985.2_ASM798v2_genomic.gbff	Geobacter sulfurreducens PCA chromosome, complete genome
+NC_008095.1	../../data/dataset/GCF_000012685.1_ASM1268v1_genomic.gbff	Myxococcus xanthus DK 1622, complete genome
+NC_007498.2	../../data/dataset/GCF_000012885.1_ASM1288v1_genomic.gbff	Pelobacter carbinolicus DSM 2380, complete genome
+NZ_LT896716.1	../../data/dataset/GCF_900187405.1_IMG-taxon_2728369264_annotated_assembly_genomic.gbff	Geobacter sp. DSM 9736 genome assembly, chromosome: I
+NC_014623.1	../../data/dataset/GCF_000165485.1_ASM16548v1_genomic.gbff	Stigmatella aurantiaca DW4/3-1, complete genome
+NZ_CP010802.1	../../data/dataset/GCF_001278055.1_ASM127805v1_genomic.gbff	Desulfuromonas soudanensis strain WTL chromosome, complete genome
+NC_014973.1	../../data/dataset/GCF_000175115.2_ASM17511v2_genomic.gbff	Geobacter sp. M18, complete genome
+NC_017454.1	../../data/dataset/GCF_000210155.1_ASM21015v1_genomic.gbff	Geobacter sulfurreducens KN400, complete genome
+NZ_CP014963.1	../../data/dataset/GCF_001628815.1_ASM162881v1_genomic.gbff	Geobacter anodireducens strain SD-1 chromosome, complete genome
+NZ_CP015455.1	../../data/dataset/GCF_001888165.1_ASM188816v1_genomic.gbff	Pelobacter acetylenicus strain DSM 3246 chromosome, complete genome
+NC_007517.1	../../data/dataset/GCF_000012925.1_ASM1292v1_genomic.gbff	Geobacter metallireducens GS-15, complete genome
+NC_008609.1	../../data/dataset/GCF_000015045.1_ASM1504v1_genomic.gbff	Pelobacter propionicus DSM 2379, complete genome
+NC_010814.1	../../data/dataset/GCF_000020385.1_ASM2038v1_genomic.gbff	Geobacter lovleyi SZ, complete genome
+NC_017030.1	../../data/dataset/GCF_000255295.1_ASM25529v1_genomic.gbff	Corallococcus coralloides DSM 2259, complete genome

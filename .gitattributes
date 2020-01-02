@@ -1,0 +1,1 @@
+analysis/ls-bsr/query/all.fasta filter=lfs diff=lfs merge=lfs -text

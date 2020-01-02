@@ -1,0 +1,2 @@
+ACCESSION	GC	GC3s	S_value	Size	cds	delta_enc	highlyExpressed	rRNA	tRNA
+GCF_000020725.1_ASM2072v1_genomic	60.3	80.68	0.1808	4615150	4042	0.0846	42	12	58

@@ -1,0 +1,6 @@
+LOG: 2019/12/22 23:38:08 - Testing paths of dependencies
+/bio/bin/blastn
+citation: Altschul SF, Madden TL, Schaffer AA, Zhang J, Zhang Z, Miller W, and Lipman DJ. 1997. Gapped BLAST and PSI-BLAST: a new generation of protein database search programs. Nucleic Acids Res 25:3389-3402
+LOG: 2019/12/22 23:38:09 - Using pre-compiled set of predicted genes
+LOG: 2019/12/22 23:40:03 - using tblastn
+LOG: 2019/12/23 01:48:29 - starting BLAST

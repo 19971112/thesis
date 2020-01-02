@@ -1,0 +1,315 @@
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000001.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000001.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000002.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000002.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000003.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000003.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000004.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000004.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000005.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000005.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000006.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000006.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000007.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000007.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000008.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000008.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000009.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000009.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000010.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000010.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000011.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000011.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000012.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000012.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000013.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000013.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000014.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000014.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000015.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000015.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000016.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000016.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000017.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000017.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000018.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000018.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000019.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000019.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000020.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000020.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000021.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000021.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000022.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000022.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000023.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000023.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000024.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000024.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000025.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000025.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000026.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000026.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000027.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000027.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000028.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000028.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000029.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000029.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000030.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000030.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000031.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000031.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000032.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000032.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000033.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000033.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000034.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000034.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000035.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000035.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000036.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000036.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000037.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000037.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000038.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000038.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000039.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000039.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000040.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000040.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000041.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000041.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000042.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000042.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000043.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000043.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000044.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000044.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 
+ file(con, "r") でエラー: 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000045.[1]&rettype=fasta_cds_na&retmode=text'
+ 呼び出し:  read.fasta -> readLines -> file
+ 追加情報:  警告メッセージ: 
+ file(con, "r") で: 
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BJBU01000045.[1]&rettype=fasta_cds_na&retmode=text': HTTP status was '400 Bad Request'
+ 実行が停止されました 

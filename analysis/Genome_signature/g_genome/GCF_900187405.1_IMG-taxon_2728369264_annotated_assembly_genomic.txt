@@ -1,0 +1,2 @@
+ACCESSION	GC	GC3s	S_value	Size	cds	delta_enc	highlyExpressed	rRNA	tRNA
+GCF_900187405.1_IMG-taxon_2728369264_annotated_assembly_genomic	56.1	66.03	-0.1103	3957783	3486	0.0302	42	6	49
