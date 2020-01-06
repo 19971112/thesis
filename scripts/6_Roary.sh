@@ -4,14 +4,7 @@
 #PBS -V
 cd ${PBS_O_WORKDIR}
 
-mkdir -p analysis/Roary && cd $_
-
-mkdir -p {gff}
-
-# データセットのコピー
-# cp ../../data/dataset/*.gbff ./gbff
-
-cd gff
+mkdir -p analysis/Roary/gff && cd $_
 perl ../../../scripts/bp_genbank2gff3.pl ../../../data/dataset/*.gbff
 cd ..
 
