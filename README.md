@@ -36,7 +36,7 @@ bash scripts/4_genome_signature2.sh
 qsub scripts/table_sort.job
 
 # Roaryの解析
-qsub scripts/scripts/6_Roary.sh 
+qsub scripts/6_Roary.sh 
 
 # 比較ゲノム解析
 qsub scripts/7_ls-bsr.sh
