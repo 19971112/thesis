@@ -4,9 +4,11 @@
 #PBS -V
 cd ${PBS_O_WORKDIR}
 
-mkdir -p analysis/Roary/gff && cd $_
-perl ../../../scripts/bp_genbank2gff3.pl ../../../data/dataset/*.gbff
-cd ..
+# mkdir -p analysis/Roary/gff && cd $_
+# perl ../../../scripts/bp_genbank2gff3.pl ../../../data/dataset/*.gbff
+# cd ..
+
+cd analysis/Roary/
 
 # Roaryの実行
 roary -f ./i90/ -e -p 40 -n -i 90 -g 500000 -v ./gff/*.gff
