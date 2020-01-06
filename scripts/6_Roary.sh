@@ -12,7 +12,7 @@ mkdir -p {gbff,gff}
 # cp ../../data/dataset/*.gbff ./gbff
 
 cd gff
-perl ../../../scripts/bp_genbank2gff3.pl ../../data/dataset/*.gbff
+perl ../../../scripts/bp_genbank2gff3.pl ../../../data/dataset/*.gbff
 cd ..
 
 # Roaryの実行
