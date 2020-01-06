@@ -7,7 +7,7 @@ cd ${PBS_O_WORKDIR}
 mkdir -p analysis/tree-table && cd $_
 
 cp ../16S_phylogeny/rename_16S.maf.newick .
-sed -e -i 's/data\/dataset\///g' rename_16S.maf.newick 
+sed -i 's/data\/dataset\///g' rename_16S.maf.newick 
 cp ../Genome_signature/rename_g_genome_all.txt .
 
 python ../../scripts/tree_sort.py -n "rename_16S.maf.newick" -t "rename_g_genome_all.txt" -o1 "Sorangium_cellulosum_So_ce_56" -o2 "Myxococcus_macrosporus_HW-1"
