@@ -8,9 +8,10 @@ last-update 2019-12-20
 ```
 # git clone と更新
 git clone https://github.com/19971112/thesis.git
+
+# 最近情報に更新
 mv *.sh.* log/
 mv *.job.* log/
-
 git pull origin master
 
 # 置換リストの作成
