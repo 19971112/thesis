@@ -1,6 +1,7 @@
 #!/bin/sh
 #PBS -q small
 #PBS -l ncpus=40
+#PBS -l mem=95G
 #PBS -V
 cd ${PBS_O_WORKDIR}
 
