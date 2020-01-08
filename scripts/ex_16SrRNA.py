@@ -5,8 +5,9 @@ FNAME = sys.argv[1]
 
 gbank=SeqIO.parse(open(FNAME,"rU"),"genbank")
 
-i=0
 for genome in gbank:
+    parental_seq = genome.seq
+    i=0
     for gene in genome.features:
         if gene.type=="rRNA":
             if 'product' in gene.qualifiers:
