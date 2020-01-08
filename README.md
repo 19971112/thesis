@@ -22,6 +22,7 @@ qsub scripts/2_DL_dataset.sh
 
 # 16S rRNAに基づく系統解析
 qsub scripts/3_16S_phylogeny2.sh
+python ../../scripts/tree_view.py -n "rename_16S_all.maf.newick"  -o1 "Sorangium_cellulosum_So_ce_56_1" -o2 "Myxococcus_stipitatus_DSM_14675_3"
 
 
 # RSCUの解析
