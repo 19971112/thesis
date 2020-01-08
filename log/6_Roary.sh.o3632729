@@ -1,0 +1,169 @@
+# Input: ../../../data/dataset2/GCF_000007985.2_ASM798v2_genomic.gbff
+# working on region:NC_002939, Geobacter sulfurreducens PCA, Geobacter sulfurreducens PCA chromosome, complete genome., 03-AUG-2016
+# GFF3 saved to ./GCF_000007985.2_ASM798v2_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000012885.1_ASM1288v1_genomic.gbff
+# working on region:NC_007498, Pelobacter carbinolicus DSM 2380, Pelobacter carbinolicus DSM 2380, complete genome., 25-AUG-2019
+# GFF3 saved to ./GCF_000012885.1_ASM1288v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000012925.1_ASM1292v1_genomic.gbff
+# working on region:NC_007517, Geobacter metallireducens GS-15, Geobacter metallireducens GS-15, complete genome., 25-AUG-2019
+# working on region:NC_007515, Geobacter metallireducens GS-15, Geobacter metallireducens GS-15 plasmid, complete genome., 25-AUG-2019
+# GFF3 saved to ./GCF_000012925.1_ASM1292v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000015045.1_ASM1504v1_genomic.gbff
+# working on region:NC_008609, Pelobacter propionicus DSM 2379, Pelobacter propionicus DSM 2379, complete genome., 16-DEC-2019
+# working on region:NC_008607, Pelobacter propionicus DSM 2379, Pelobacter propionicus DSM 2379 plasmid pPRO1, complete sequence., 16-DEC-2019
+# working on region:NC_008608, Pelobacter propionicus DSM 2379, Pelobacter propionicus DSM 2379 plasmid pPRO2, complete sequence., 16-DEC-2019
+# GFF3 saved to ./GCF_000015045.1_ASM1504v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000016745.1_ASM1674v1_genomic.gbff
+# working on region:NC_009483, Geobacter uraniireducens Rf4, Geobacter uraniireducens Rf4, complete genome., 16-DEC-2019
+# GFF3 saved to ./GCF_000016745.1_ASM1674v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000020385.1_ASM2038v1_genomic.gbff
+# working on region:NC_010814, Geobacter lovleyi SZ, Geobacter lovleyi SZ, complete genome., 07-NOV-2019
+# working on region:NC_010815, Geobacter lovleyi SZ, Geobacter lovleyi SZ plasmid pGLOV01, complete sequence., 07-NOV-2019
+# GFF3 saved to ./GCF_000020385.1_ASM2038v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000020725.1_ASM2072v1_genomic.gbff
+# working on region:NC_011146, Geobacter bemidjiensis Bem, Geobacter bemidjiensis Bem, complete genome., 25-AUG-2019
+# GFF3 saved to ./GCF_000020725.1_ASM2072v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000022265.1_ASM2226v1_genomic.gbff
+# working on region:NC_011979, Geobacter daltonii FRC-32, Geobacter daltonii FRC-32, complete genome., 25-NOV-2019
+# GFF3 saved to ./GCF_000022265.1_ASM2226v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000023645.1_ASM2364v1_genomic.gbff
+# working on region:NC_012918, Geobacter sp. M21, Geobacter sp. M21, complete genome., 20-DEC-2019
+# GFF3 saved to ./GCF_000023645.1_ASM2364v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000175115.2_ASM17511v2_genomic.gbff
+# working on region:NC_014973, Geobacter sp. M18, Geobacter sp. M18, complete genome., 07-NOV-2019
+# GFF3 saved to ./GCF_000175115.2_ASM17511v2_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000210155.1_ASM21015v1_genomic.gbff
+# working on region:NC_017454, Geobacter sulfurreducens KN400, Geobacter sulfurreducens KN400, complete genome., 07-NOV-2019
+# GFF3 saved to ./GCF_000210155.1_ASM21015v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000817955.1_ASM81795v1_genomic.gbff
+# working on region:NZ_CP009788, Geobacter pickeringii, Geobacter pickeringii strain G13, complete genome., 27-AUG-2019
+# GFF3 saved to ./GCF_000817955.1_ASM81795v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_000961035.1_ASM96103v1_genomic.gbff
+# working on region:NZ_CP010430, Geobacter sulfurreducens, Geobacter sulfurreducens strain AM-1 genome., 07-NOV-2019
+# GFF3 saved to ./GCF_000961035.1_ASM96103v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_001628815.1_ASM162881v1_genomic.gbff
+# working on region:NZ_CP014963, Geobacter anodireducens, Geobacter anodireducens strain SD-1 chromosome, complete genome., 28-AUG-2019
+# working on region:NZ_CP014964, Geobacter anodireducens, Geobacter anodireducens strain SD-1 plasmid pSD, complete sequence., 28-AUG-2019
+# GFF3 saved to ./GCF_001628815.1_ASM162881v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_001888165.1_ASM188816v1_genomic.gbff
+# working on region:NZ_CP015455, Pelobacter acetylenicus, Pelobacter acetylenicus strain DSM 3246 chromosome, complete genome., 28-AUG-2019
+# working on region:NZ_CP015456, Pelobacter acetylenicus, Pelobacter acetylenicus strain DSM 3246 plasmid unnamed, complete sequence., 28-AUG-2019
+# GFF3 saved to ./GCF_001888165.1_ASM188816v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_003574175.1_ASM357417v1_genomic.gbff
+# working on region:NZ_AP017912, Geobacter sulfurreducens, Geobacter sulfurreducens DNA, complete genome., 20-SEP-2018
+# GFF3 saved to ./GCF_003574175.1_ASM357417v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_008330225.1_ASM833022v1_genomic.gbff
+# working on region:NZ_CP042466, Geobacter sp. FeAm09, Geobacter sp. FeAm09 chromosome, complete genome., 14-SEP-2019
+# GFF3 saved to ./GCF_008330225.1_ASM833022v1_genomic.gbff.gff
+# Input: ../../../data/dataset2/GCF_900187405.1_IMG-taxon_2728369264_annotated_assembly_genomic.gbff
+# working on chromosome:NZ_LT896716, Geobacter sp. DSM 9736, Geobacter sp. DSM 9736 genome assembly, chromosome: I., 21-DEC-2019
+# GFF3 saved to ./GCF_900187405.1_IMG-taxon_2728369264_annotated_assembly_genomic.gbff.gff
+# Input: ../../../data/dataset2/Geobacter_sp._SbR.gbff
+# working on chromosome:BJBU01000001, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence01., 13-FEB-2019
+# working on chromosome:BJBU01000002, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence02., 13-FEB-2019
+# working on chromosome:BJBU01000003, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence03., 13-FEB-2019
+# working on chromosome:BJBU01000004, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence04., 13-FEB-2019
+# working on chromosome:BJBU01000005, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence05., 13-FEB-2019
+# working on chromosome:BJBU01000006, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence06., 13-FEB-2019
+# working on chromosome:BJBU01000007, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence07., 13-FEB-2019
+# working on chromosome:BJBU01000008, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence08., 13-FEB-2019
+# working on chromosome:BJBU01000009, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence09., 13-FEB-2019
+# working on chromosome:BJBU01000010, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence10., 13-FEB-2019
+# working on chromosome:BJBU01000011, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence11., 13-FEB-2019
+# working on chromosome:BJBU01000012, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence12., 13-FEB-2019
+# working on chromosome:BJBU01000013, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence13., 13-FEB-2019
+# working on chromosome:BJBU01000014, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence14., 13-FEB-2019
+# working on chromosome:BJBU01000015, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence15., 13-FEB-2019
+# working on chromosome:BJBU01000016, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence16., 13-FEB-2019
+# working on chromosome:BJBU01000017, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence17., 13-FEB-2019
+# working on chromosome:BJBU01000018, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence18., 13-FEB-2019
+# working on chromosome:BJBU01000019, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence19., 13-FEB-2019
+# working on chromosome:BJBU01000020, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence20., 13-FEB-2019
+# working on chromosome:BJBU01000021, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence21., 13-FEB-2019
+# working on chromosome:BJBU01000022, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence22., 13-FEB-2019
+# working on chromosome:BJBU01000023, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence23., 13-FEB-2019
+# working on chromosome:BJBU01000024, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence24., 13-FEB-2019
+# working on chromosome:BJBU01000025, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence25., 13-FEB-2019
+# working on chromosome:BJBU01000026, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence26., 13-FEB-2019
+# working on chromosome:BJBU01000027, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence27., 13-FEB-2019
+# working on chromosome:BJBU01000028, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence28., 13-FEB-2019
+# working on chromosome:BJBU01000029, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence29., 13-FEB-2019
+# working on chromosome:BJBU01000030, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence30., 13-FEB-2019
+# working on chromosome:BJBU01000031, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence31., 13-FEB-2019
+# working on chromosome:BJBU01000032, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence32., 13-FEB-2019
+# working on chromosome:BJBU01000033, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence33., 13-FEB-2019
+# working on chromosome:BJBU01000034, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence34., 13-FEB-2019
+# working on chromosome:BJBU01000035, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence35., 13-FEB-2019
+# working on chromosome:BJBU01000036, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence36., 13-FEB-2019
+# working on chromosome:BJBU01000037, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence37., 13-FEB-2019
+# working on chromosome:BJBU01000038, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence38., 13-FEB-2019
+# working on chromosome:BJBU01000039, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence39., 13-FEB-2019
+# working on chromosome:BJBU01000040, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence40., 13-FEB-2019
+# working on chromosome:BJBU01000041, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence41., 13-FEB-2019
+# working on chromosome:BJBU01000042, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence42., 13-FEB-2019
+# working on chromosome:BJBU01000043, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence43., 13-FEB-2019
+# working on chromosome:BJBU01000044, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence44., 13-FEB-2019
+# working on chromosome:BJBU01000045, Geobacter sp. SbR, Geobacter sp. SbR DNA, sequence45., 13-FEB-2019
+# GFF3 saved to ./Geobacter_sp._SbR.gbff.gff
+
+Please cite Roary if you use any of the results it produces:
+    Andrew J. Page, Carla A. Cummins, Martin Hunt, Vanessa K. Wong, Sandra Reuter, Matthew T. G. Holden, Maria Fookes, Daniel Falush, Jacqueline A. Keane, Julian Parkhill,
+	"Roary: Rapid large-scale prokaryote pan genome analysis", Bioinformatics, 2015 Nov 15;31(22):3691-3693
+    doi: http://doi.org/10.1093/bioinformatics/btv421
+	Pubmed: 26198102
+
+Extracting proteins from fixed_input_files/GCF_000007985.2_ASM798v2_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000012885.1_ASM1288v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000012925.1_ASM1292v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000015045.1_ASM1504v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000016745.1_ASM1674v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000020385.1_ASM2038v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000020725.1_ASM2072v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000022265.1_ASM2226v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000023645.1_ASM2364v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000175115.2_ASM17511v2_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000210155.1_ASM21015v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000817955.1_ASM81795v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000961035.1_ASM96103v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_001628815.1_ASM162881v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_001888165.1_ASM188816v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_003574175.1_ASM357417v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_008330225.1_ASM833022v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_900187405.1_IMG-taxon_2728369264_annotated_assembly_genomic.gbff.gff
+Extracting proteins from /mnt/gpfsA/home/t16965tw/github/thesis/analysis/Roary/gff/Geobacter_sp._SbR.gbff.gff
+Combine proteins into a single file
+Iteratively run cd-hit
+Parallel all against all blast
+Cluster with MCL
+Aligning each cluster
+
+Please cite Roary if you use any of the results it produces:
+    Andrew J. Page, Carla A. Cummins, Martin Hunt, Vanessa K. Wong, Sandra Reuter, Matthew T. G. Holden, Maria Fookes, Daniel Falush, Jacqueline A. Keane, Julian Parkhill,
+	"Roary: Rapid large-scale prokaryote pan genome analysis", Bioinformatics, 2015 Nov 15;31(22):3691-3693
+    doi: http://doi.org/10.1093/bioinformatics/btv421
+	Pubmed: 26198102
+
+Extracting proteins from fixed_input_files/GCF_000007985.2_ASM798v2_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000012885.1_ASM1288v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000012925.1_ASM1292v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000015045.1_ASM1504v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000016745.1_ASM1674v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000020385.1_ASM2038v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000020725.1_ASM2072v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000022265.1_ASM2226v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000023645.1_ASM2364v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000175115.2_ASM17511v2_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000210155.1_ASM21015v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000817955.1_ASM81795v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_000961035.1_ASM96103v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_001628815.1_ASM162881v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_001888165.1_ASM188816v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_003574175.1_ASM357417v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_008330225.1_ASM833022v1_genomic.gbff.gff
+Extracting proteins from fixed_input_files/GCF_900187405.1_IMG-taxon_2728369264_annotated_assembly_genomic.gbff.gff
+Extracting proteins from /mnt/gpfsA/home/t16965tw/github/thesis/analysis/Roary/gff/Geobacter_sp._SbR.gbff.gff
+Combine proteins into a single file
+Iteratively run cd-hit
+Parallel all against all blast
+Cluster with MCL
+Aligning each cluster
