@@ -1,0 +1,96 @@
+outputhat23=16
+treein = 0
+compacttree = 0
+stacksize: 16384 kb
+generating a scoring matrix for nucleotide (dist=200) ... done
+All-to-all alignment.
+    0 / 71    1 / 71    2 / 71    3 / 71    4 / 71    5 / 71    6 / 71    7 / 71    8 / 71    9 / 71   10 / 71   11 / 71   12 / 71   13 / 71   14 / 71   15 / 71   16 / 71   17 / 71   18 / 71   19 / 71   20 / 71   21 / 71   22 / 71   23 / 71   24 / 71   25 / 71   26 / 71   27 / 71   28 / 71   29 / 71   30 / 71   31 / 71   32 / 71   33 / 71   34 / 71   35 / 71   36 / 71   37 / 71   38 / 71   39 / 71   40 / 71   41 / 71   42 / 71   43 / 71   44 / 71   45 / 71   46 / 71   47 / 71   48 / 71   49 / 71   50 / 71   51 / 71   52 / 71   53 / 71   54 / 71   55 / 71   56 / 71   57 / 71   58 / 71   59 / 71   60 / 71   61 / 71   62 / 71   63 / 71   64 / 71   65 / 71   66 / 71   67 / 71   68 / 71   69 / 71tbfast-pair (nuc) Version 7.455
+alg=L, model=DNA200 (2), 2.00 (6.00), -0.10 (-0.30), noshift, amax=0.0
+0 thread(s)
+
+outputhat23=16
+Loading 'hat3.seed' ... 
+done.
+Writing hat3 for iterative refinement
+generating a scoring matrix for nucleotide (dist=200) ... done
+Gap Penalty = -1.53, +0.00, +0.00
+tbutree = 1, compacttree = 0
+Constructing a UPGMA tree ... 
+    0 / 71   10 / 71   20 / 71   30 / 71   40 / 71   50 / 71   60 / 71
+done.
+
+Progressive alignment ... 
+STEP     1 /70 STEP     2 /70 STEP     3 /70 STEP     4 /70 STEP     5 /70 STEP     6 /70 STEP     7 /70 STEP     8 /70 STEP     9 /70 STEP    10 /70 STEP    11 /70 STEP    12 /70 STEP    13 /70 STEP    14 /70 STEP    15 /70 STEP    16 /70 STEP    17 /70 STEP    18 /70 STEP    19 /70 STEP    20 /70 STEP    21 /70 STEP    22 /70 STEP    23 /70 STEP    24 /70 STEP    25 /70 STEP    26 /70 STEP    27 /70 STEP    28 /70 STEP    29 /70 STEP    30 /70 STEP    31 /70 STEP    32 /70 STEP    33 /70 STEP    34 /70 STEP    35 /70 STEP    36 /70 STEP    37 /70 STEP    38 /70 STEP    39 /70 STEP    40 /70 STEP    41 /70 STEP    42 /70 STEP    43 /70 STEP    44 /70 STEP    45 /70 STEP    46 /70 STEP    47 /70 STEP    48 /70 STEP    49 /70 STEP    50 /70 STEP    51 /70 STEP    52 /70 STEP    53 /70 STEP    54 /70 STEP    55 /70 STEP    56 /70 STEP    57 /70 STEP    58 /70 STEP    59 /70 STEP    60 /70 STEP    61 /70 STEP    62 /70 STEP    63 /70 STEP    64 /70 STEP    65 /70 STEP    66 /70 
+Reallocating..done. *alloclen = 4136
+STEP    67 /70 STEP    68 /70 STEP    69 /70 STEP    70 /70 
+done.
+tbfast (nuc) Version 7.455
+alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+1 thread(s)
+
+minimumweight = 0.000010
+autosubalignment = 0.000000
+nthread = 0
+randomseed = 0
+blosum 62 / kimura 200
+poffset = 0
+niter = 16
+sueff_global = 0.100000
+nadd = 16
+Loading 'hat3' ... done.
+generating a scoring matrix for nucleotide (dist=200) ... done
+
+    0 / 71   10 / 71   20 / 71   30 / 71   40 / 71   50 / 71   60 / 71
+Segment   1/  1    1-1578
+STEP 001-001-0  identical.   STEP 001-001-1  identical.   STEP 001-002-0  identical.   STEP 001-002-1  identical.   STEP 001-003-0  identical.   STEP 001-003-1  identical.   STEP 001-004-0  identical.   STEP 001-004-1  identical.   STEP 001-005-0  identical.   STEP 001-005-1  identical.   STEP 001-006-0  identical.   STEP 001-006-1  identical.   STEP 001-007-0  identical.   STEP 001-007-1  identical.   STEP 001-008-0  identical.   STEP 001-008-1  identical.   STEP 001-009-0  identical.   STEP 001-009-1  identical.   STEP 001-010-0  identical.   STEP 001-010-1  identical.   STEP 001-011-0  identical.   STEP 001-011-1  identical.   STEP 001-012-0  identical.   STEP 001-012-1  identical.   STEP 001-013-0  identical.   STEP 001-013-1  identical.   STEP 001-014-0  identical.   STEP 001-014-1  identical.   STEP 001-015-0  identical.   STEP 001-015-1  identical.   STEP 001-016-0  identical.   STEP 001-016-1  identical.   STEP 001-017-0  identical.   STEP 001-017-1  identical.   STEP 001-018-0  identical.   STEP 001-018-1  identical.   STEP 001-019-0  identical.   STEP 001-019-1  identical.   STEP 001-020-0  identical.   STEP 001-020-1  identical.   STEP 001-021-0  identical.   STEP 001-021-1  identical.   STEP 001-022-0  identical.   STEP 001-022-1  identical.   STEP 001-023-0  identical.   STEP 001-023-1  identical.   STEP 001-024-0  identical.   STEP 001-024-1  identical.   STEP 001-025-0  identical.   STEP 001-025-1  identical.   STEP 001-026-0  identical.   STEP 001-026-1  identical.   STEP 001-027-0  identical.   STEP 001-027-1  identical.   STEP 001-028-0  identical.   STEP 001-028-1  identical.   STEP 001-029-0  identical.   STEP 001-029-1  identical.   STEP 001-030-0  identical.   STEP 001-030-1  identical.   STEP 001-031-0  identical.   STEP 001-031-1  identical.   STEP 001-032-0  identical.   STEP 001-032-1  identical.   STEP 001-033-0  identical.   STEP 001-033-1  identical.   STEP 001-034-0  identical.   STEP 001-034-1  identical.   STEP 001-035-0  identical.   STEP 001-035-1  identical.   STEP 001-036-0  identical.   STEP 001-036-1  identical.   STEP 001-037-0  identical.   STEP 001-037-1  identical.   STEP 001-038-0  identical.   STEP 001-038-1  identical.   STEP 001-039-0  identical.   STEP 001-039-1  identical.   STEP 001-040-0  identical.   STEP 001-040-1  identical.   STEP 001-041-0  identical.   STEP 001-041-1  identical.   STEP 001-042-0  identical.   STEP 001-042-1  identical.   STEP 001-043-0  identical.   STEP 001-043-1  identical.   STEP 001-044-0  identical.   STEP 001-044-1  identical.   STEP 001-045-0  identical.   STEP 001-045-1  identical.   STEP 001-046-0  identical.   STEP 001-046-1  identical.   STEP 001-047-0  identical.   STEP 001-047-1  identical.   STEP 001-048-0  identical.   STEP 001-048-1  identical.   STEP 001-049-0  identical.   STEP 001-049-1  identical.   STEP 001-050-0  identical.   STEP 001-050-1  identical.   STEP 001-051-0  identical.   STEP 001-051-1  accepted.STEP 001-052-0  identical.   STEP 001-052-1  identical.   STEP 001-053-0  identical.   STEP 001-053-1  accepted.STEP 001-054-0  identical.   STEP 001-054-1  identical.   STEP 001-055-0  rejected.STEP 001-055-1  identical.   STEP 001-056-0  identical.   STEP 001-056-1  identical.   STEP 001-057-0  identical.   STEP 001-057-1  accepted.STEP 001-058-0  identical.   STEP 001-058-1  identical.   STEP 001-059-0  rejected.STEP 001-059-1  rejected.STEP 001-060-0  identical.   STEP 001-060-1  identical.   STEP 001-061-0  accepted.STEP 001-061-1  identical.   STEP 001-062-0  identical.   STEP 001-062-1  accepted.STEP 001-063-0  accepted.STEP 001-063-1  identical.   STEP 001-064-0  identical.   STEP 001-064-1  identical.   STEP 001-065-0  identical.   STEP 001-065-1  identical.   STEP 001-066-0  accepted.STEP 001-066-1  accepted.STEP 001-067-0  identical.   STEP 001-067-1  identical.   STEP 001-068-0  accepted.STEP 001-068-1  identical.   STEP 001-069-0  accepted.STEP 001-069-1  identical.   STEP 001-070-1  identical.   STEP 002-070-1  identical.   STEP 002-069-0  identical.   STEP 002-069-1  identical.   STEP 002-068-0  identical.   STEP 002-068-1  identical.   STEP 002-067-0  identical.   STEP 002-067-1  identical.   STEP 002-066-0  identical.   STEP 002-066-1  identical.   STEP 002-065-0  identical.   STEP 002-065-1  identical.   STEP 002-064-0  identical.   STEP 002-064-1  identical.   STEP 002-063-0  identical.   STEP 002-063-1  identical.   STEP 002-062-0  identical.   STEP 002-062-1  accepted.STEP 002-061-0  identical.   STEP 002-061-1  identical.   STEP 002-060-0  identical.   STEP 002-060-1  identical.   STEP 002-059-0  identical.   STEP 002-059-1  identical.   STEP 002-058-0  identical.   STEP 002-058-1  identical.   STEP 002-057-0  identical.   STEP 002-057-1  identical.   STEP 002-056-0  identical.   STEP 002-056-1  identical.   STEP 002-055-0  identical.   STEP 002-055-1  identical.   STEP 002-054-0  identical.   STEP 002-054-1  identical.   STEP 002-053-0  identical.   STEP 002-053-1  accepted.STEP 002-052-0  identical.   STEP 002-052-1  identical.   STEP 002-051-0  identical.   STEP 002-051-1  identical.   STEP 002-050-0  identical.   STEP 002-050-1  identical.   STEP 002-049-0  identical.   STEP 002-049-1  identical.   STEP 002-048-0  identical.   STEP 002-048-1  identical.   STEP 002-047-0  identical.   STEP 002-047-1  identical.   STEP 002-046-0  identical.   STEP 002-046-1  identical.   STEP 002-045-0  identical.   STEP 002-045-1  identical.   STEP 002-044-0  identical.   STEP 002-044-1  identical.   STEP 002-043-0  identical.   STEP 002-043-1  identical.   STEP 002-042-0  identical.   STEP 002-042-1  identical.   STEP 002-041-0  identical.   STEP 002-041-1  identical.   STEP 002-040-0  identical.   STEP 002-040-1  identical.   STEP 002-039-0  identical.   STEP 002-039-1  identical.   STEP 002-038-0  identical.   STEP 002-038-1  identical.   STEP 002-037-0  identical.   STEP 002-037-1  identical.   STEP 002-036-0  identical.   STEP 002-036-1  identical.   STEP 002-035-0  identical.   STEP 002-035-1  identical.   STEP 002-034-0  identical.   STEP 002-034-1  identical.   STEP 002-033-0  identical.   STEP 002-033-1  identical.   STEP 002-032-0  identical.   STEP 002-032-1  identical.   STEP 002-031-0  identical.   STEP 002-031-1  identical.   STEP 002-030-0  identical.   STEP 002-030-1  identical.   STEP 002-029-0  identical.   STEP 002-029-1  identical.   STEP 002-028-0  identical.   STEP 002-028-1  identical.   STEP 002-027-0  identical.   STEP 002-027-1  identical.   STEP 002-026-0  identical.   STEP 002-026-1  identical.   STEP 002-025-0  identical.   STEP 002-025-1  identical.   STEP 002-024-0  identical.   STEP 002-024-1  identical.   STEP 002-023-0  identical.   STEP 002-023-1  identical.   STEP 002-022-0  identical.   STEP 002-022-1  identical.   STEP 002-021-0  identical.   STEP 002-021-1  identical.   STEP 002-020-0  identical.   STEP 002-020-1  identical.   STEP 002-019-0  identical.   STEP 002-019-1  identical.   STEP 002-018-0  identical.   STEP 002-018-1  identical.   STEP 002-017-0  identical.   STEP 002-017-1  identical.   STEP 002-016-0  identical.   STEP 002-016-1  identical.   STEP 002-015-0  identical.   STEP 002-015-1  identical.   STEP 002-014-0  identical.   STEP 002-014-1  identical.   STEP 002-013-0  identical.   STEP 002-013-1  identical.   STEP 002-012-0  identical.   STEP 002-012-1  identical.   STEP 002-011-0  identical.   STEP 002-011-1  identical.   STEP 002-010-0  identical.   STEP 002-010-1  identical.   STEP 002-009-0  identical.   STEP 002-009-1  identical.   STEP 002-008-0  identical.   STEP 002-008-1  identical.   STEP 002-007-0  identical.   STEP 002-007-1  identical.   STEP 002-006-0  identical.   STEP 002-006-1  identical.   STEP 002-005-0  identical.   STEP 002-005-1  identical.   STEP 002-004-0  identical.   STEP 002-004-1  identical.   STEP 002-003-0  identical.   STEP 002-003-1  identical.   STEP 002-002-0  identical.   STEP 002-002-1  identical.   STEP 002-001-0  identical.   STEP 002-001-1  identical.   STEP 003-001-0  identical.   STEP 003-001-1  identical.   STEP 003-002-0  identical.   STEP 003-002-1  identical.   STEP 003-003-0  identical.   STEP 003-003-1  identical.   STEP 003-004-0  identical.   STEP 003-004-1  identical.   STEP 003-005-0  identical.   STEP 003-005-1  identical.   STEP 003-006-0  identical.   STEP 003-006-1  identical.   STEP 003-007-0  identical.   STEP 003-007-1  identical.   STEP 003-008-0  identical.   STEP 003-008-1  identical.   STEP 003-009-0  identical.   STEP 003-009-1  identical.   STEP 003-010-0  identical.   STEP 003-010-1  identical.   STEP 003-011-0  identical.   STEP 003-011-1  identical.   STEP 003-012-0  identical.   STEP 003-012-1  identical.   STEP 003-013-0  identical.   STEP 003-013-1  identical.   STEP 003-014-0  identical.   STEP 003-014-1  identical.   STEP 003-015-0  identical.   STEP 003-015-1  identical.   STEP 003-016-0  identical.   STEP 003-016-1  identical.   STEP 003-017-0  identical.   STEP 003-017-1  identical.   STEP 003-018-0  identical.   STEP 003-018-1  identical.   STEP 003-019-0  identical.   STEP 003-019-1  identical.   
+Converged.
+
+done
+dvtditr (nuc) Version 7.455
+alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+0 thread(s)
+
+
+Strategy:
+ L-INS-i (Probably most accurate, very slow)
+ Iterative refinement method (<16) with LOCAL pairwise alignment information
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+FastTree Version 2.1.10 Double precision (No SSE3)
+Alignment: analysis/16S_phylogeny_all/16S_all.maf
+Nucleotide distances: Jukes-Cantor Joins: balanced Support: SH-like 1000
+Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=1
+TopHits: 1.00*sqrtN close=default refresh=0.80
+ML Model: Generalized Time-Reversible, CAT approximation with 20 rate categories
+Initial topology in 0.02 seconds
+Refining topology: 21 rounds ME-NNIs, 2 rounds ME-SPRs, 11 rounds ML-NNIs
+      0.15 seconds: ME NNI round 8 of 21, 1 of 38 splits
+      0.28 seconds: ME NNI round 15 of 21, 1 of 38 splits
+Total branch-length 0.755 after 0.30 sec
+ML-NNI round 1: LogLk = -9898.633 NNIs 2 max delta 12.15 Time 0.44
+      0.44 seconds: Optimizing GTR model, step 1 of 12
+      0.57 seconds: Optimizing GTR model, step 4 of 12
+      0.67 seconds: Optimizing GTR model, step 6 of 12
+      0.78 seconds: Optimizing GTR model, step 9 of 12
+GTR Frequencies: 0.2424 0.2390 0.3198 0.1989
+GTR rates(ac ag at cg ct gt) 0.6747 1.8332 1.4150 0.8285 3.6947 1.0000
+      0.91 seconds: ML Lengths 1 of 38 splits
+      1.01 seconds: Site likelihoods with rate category 12 of 20
+Switched to using 20 rate categories (CAT approximation)
+Rate categories were divided by 0.746 so that average rate = 1.0
+CAT-based log-likelihoods may not be comparable across runs
+Use -gamma for approximate but comparable Gamma(20) log-likelihoods
+ML-NNI round 2: LogLk = -8522.123 NNIs 2 max delta 2.17 Time 1.13
+      1.12 seconds: ML NNI round 3 of 11, 1 of 38 splits
+ML-NNI round 3: LogLk = -8522.035 NNIs 0 max delta 0.00 Time 1.16
+Turning off heuristics for final round of ML NNIs (converged)
+ML-NNI round 4: LogLk = -8521.481 NNIs 1 max delta 0.29 Time 1.38 (final)
+      1.38 seconds: ML Lengths 1 of 38 splits
+Optimize all lengths: LogLk = -8521.212 Time 1.44
+Total time: 1.73 seconds Unique: 40/71 Bad splits: 0/37

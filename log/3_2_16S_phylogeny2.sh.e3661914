@@ -1,0 +1,141 @@
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+Traceback (most recent call last):
+  File "scripts/ex_16SrRNA.py", line 14, in <module>
+    seq_slice = gene.location.extract(parental_seq)
+NameError: name 'parental_seq' is not defined
+outputhat23=16
+treein = 0
+compacttree = 0
+Warning: Only 0 sequence found.
+minimumweight = 0.000010
+autosubalignment = 0.000000
+nthread = 0
+randomseed = 0
+blosum 62 / kimura 200
+poffset = 0
+niter = 16
+sueff_global = 0.100000
+nadd = 16
+Warning: Only 0 sequence found.
+
+Strategy:
+ L-INS-i (Probably most accurate, very slow)
+ Iterative refinement method (<16) with LOCAL pairwise alignment information
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+FastTree Version 2.1.10 Double precision (No SSE3)
+Alignment: analysis/16S_phylogeny_all/16S_all.maf
+Nucleotide distances: Jukes-Cantor Joins: balanced Support: SH-like 1000
+Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=1
+TopHits: 1.00*sqrtN close=default refresh=0.80
+ML Model: Generalized Time-Reversible, CAT approximation with 20 rate categories
+Error reading header line
