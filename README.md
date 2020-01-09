@@ -45,9 +45,7 @@ qsub scripts/7_ls-bsr.sh
 
 
 # 多変量解析
-qsub scripts/WCA.job
-qsub scripts/WCA2.job
-qsub scripts/WCA3.job
-qsub scripts/WCA4.job
+qsub scripts/8_WCA.job
+
 ```
 
