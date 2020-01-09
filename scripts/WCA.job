@@ -1,19 +1,19 @@
 #!/bin/bash
 #PBS -q small
-#PBS -l mem=8G
+#PBS -l mem=95G
 #set -euo pipefail
 
 cd ${PBS_O_WORKDIR}
 
 mkdir -p analysis/WCA && cd $_
 
-# start
-echo; echo "[$(date)] $0 job has been started."
+# copy files , change prefix
+cp ../../data/dataset/*.gbff .
+for filename in *.gbff; do mv $filename ${filename%.gbff}.gbk; done
 
-# run_g_codon_mva.pl
-python ../../scripts/list.py "../../data/dataset3/*.gbff" > list.txt
-for GBK in $(cut -f1 list.txt); do mkdir $GBK && cd $_;(time perl -I/home/haruo/g-language-1.9.1/lib ../../../scripts/run_g_codon_mva.pl "${GBK}" ) >& log.$(date +%F).txt; cd ..; done
+# each.pl
+data="R0"
+dir="."
+(time perl -I/home/haruo/g-language-1.9.1/lib ../../scripts/each.pl $dir $data ) >& log.each.$data.txt
 
-
-# Done
-echo; echo "[$(date)] $0 has been successfully completed."
+ Rscript --vanilla ../../scripts/g_each.R .
