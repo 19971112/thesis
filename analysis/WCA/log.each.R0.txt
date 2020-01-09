@@ -1,0 +1,297 @@
+
+GCF_000007985.2_ASM798v2_genomic: Geobacter sulfurreducens PCA chromosome, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   7869
+   Predicted Terminus: 1911375
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+13861	66372	28135	10020	11312	3015	40844	20833	28384	46653	33424	11780	13753	46328	25233	11888	16007	7707	4701	46780	12826	12623	34618	1491	40808	51660	15122	1042	6952	24544	9182	2627	24545	21974	4872	4492	27555	3054	7334	3981	26776	31692	8167	16919	3937	4416	20147	14213	3581	4415	39278	16010	4838	6751	31448	38347	13047	20494	9782	All
+
+ ndc = 59
+
+GCF_000012685.1_ASM1268v1_genomic: Myxococcus xanthus DK 1622, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   9121958
+   Predicted Terminus: 4530146
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+15640	138522	167999	14061	20253	5263	119361	22272	31088	144413	86785	4670	21868	145690	48351	22379	47458	11580	835	66740	13233	3955	74230	1965	90668	174791	10078	380	24101	49912	8105	10014	71080	74477	12746	9133	85235	1998	7870	11410	115460	66301	19372	43967	5944	6223	52032	42219	4799	5825	59703	77931	4236	3820	71146	143760	7486	47535	8788	All
+
+ ndc = 59
+
+GCF_000012885.1_ASM1288v1_genomic: Pelobacter carbinolicus DSM 2380, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   0
+   Predicted Terminus: 1888361
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+11966	50414	22055	15247	9490	5337	25664	32693	39114	27182	20850	20563	12208	35056	16276	19155	10144	13464	5852	35052	17345	24947	20397	2595	18143	53867	15803	4573	21562	17913	14053	3407	17411	19700	7776	12239	28934	3167	4560	6117	25906	16454	14387	14345	7271	3386	16810	10713	4908	4970	30796	10988	5112	8463	25235	25126	16796	13417	14097	All
+
+ ndc = 59
+
+GCF_000012925.1_ASM1292v1_genomic: Geobacter metallireducens GS-15, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   0
+   Predicted Terminus: 2045465
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+13994	66246	26789	10828	11855	3249	41085	21828	28625	51255	35064	13280	14845	41131	32381	12267	16181	8419	6166	48618	14456	15408	41274	1874	47893	42554	18556	1559	7931	27044	10509	3627	25877	21223	5755	5385	28918	3735	8304	4074	23765	31993	8028	16803	4441	4940	22108	12726	4120	5144	40249	15418	5618	6416	33383	37011	14536	22320	10713	All
+
+ ndc = 59
+
+GCF_000015045.1_ASM1504v1_genomic: Pelobacter propionicus DSM 2379, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   7987
+   Predicted Terminus: 2067589
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+13565	60705	23870	10855	12440	3497	38820	22613	29406	46289	33151	12789	14505	42730	22107	12846	14674	9450	7031	50451	11532	16242	33055	2329	23948	74466	12113	2114	10098	27312	9905	4017	22283	21927	4951	5840	33712	4582	12170	4159	31273	20236	9464	21735	5213	5773	23986	11714	3804	6312	37031	12637	4370	6770	28166	33338	12852	20720	10393	All
+
+ ndc = 59
+
+GCF_000016745.1_ASM1674v1_genomic: Geobacter uraniireducens Rf4, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   0
+   Predicted Terminus: 2467075
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+25586	61215	31659	18067	13296	5382	42823	34655	48260	46361	35999	24569	18645	49551	28432	20715	14623	14892	15604	52494	23604	33917	46602	3540	38191	57029	24472	5322	17504	34164	20842	6509	19259	29401	9331	10731	34370	7729	13381	5631	23568	23506	11168	23600	8171	9421	23844	15123	7667	11186	44087	17972	9196	13553	37185	34062	21592	23961	19798	All
+
+ ndc = 59
+
+GCF_000020385.1_ASM2038v1_genomic: Geobacter lovleyi SZ, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   0
+   Predicted Terminus: 2040149
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+24720	54599	16710	18801	9761	6282	26883	33909	36346	37495	18910	26699	12060	37040	17783	23118	10867	14114	6622	39550	23384	22909	33282	3352	13174	78776	16909	4359	14662	23820	14929	6037	14136	24856	8854	10078	39880	4708	6810	3416	19985	20315	16600	18712	9175	11251	15453	8601	7186	8660	39525	9703	7764	11270	23343	29575	18532	16474	16270	All
+
+ ndc = 59
+
+GCF_000020725.1_ASM2072v1_genomic: Geobacter bemidjiensis Bem, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   0
+   Predicted Terminus: 2749824
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+14306	63942	43211	11779	15399	1915	51279	14722	27837	60593	43604	8794	12887	47473	36937	10538	19273	6936	9407	55246	6707	16528	49889	3607	42310	58311	19187	2339	13679	35790	5522	3056	22771	28772	6639	7289	37754	4504	15090	2516	33555	17700	6105	24953	3199	3214	26594	16453	3741	3915	45234	13233	4484	8752	39454	41268	9216	29538	6857	All
+
+ ndc = 59
+
+GCF_000022145.1_ASM2214v1_genomic: Anaeromyxobacter dehalogenans 2CP-1, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   5008571
+   Predicted Terminus: 2535758
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+3653	97867	134775	2567	13048	389	69602	7974	2318	90481	44247	464	3754	97395	34564	3692	28478	1018	121	44393	388	314	35093	354	82984	77356	1301	49	1263	22662	408	1310	30196	62028	1785	548	36984	374	3311	2640	85231	45865	2707	16711	320	521	18041	27665	529	381	39285	27008	423	599	46254	78342	1209	26641	902	All
+
+ ndc = 59
+
+GCF_000022265.1_ASM2226v1_genomic: Geobacter daltonii FRC-32, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   0
+   Predicted Terminus: 3080899
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+24758	56464	18275	18459	10981	5174	32948	33241	43642	37796	30998	21369	17995	42337	21942	19757	11810	14114	13612	44249	22587	30143	38703	3454	25201	55422	24116	3823	14816	25960	20485	7024	18796	19800	9700	9154	32282	7448	13049	4679	18934	17087	9953	19459	7628	8907	22262	10862	7353	10165	38991	11515	9742	12081	30276	28969	19264	18813	18115	All
+
+ ndc = 59
+
+GCF_000023645.1_ASM2364v1_genomic: Geobacter sp. M21, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   0
+   Predicted Terminus: 2349623
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+13131	66621	46721	11263	15769	1915	53645	15186	27955	64345	44715	8827	13431	48549	38944	10505	19911	7166	9859	56690	6457	16609	51995	3469	43929	59968	19571	2431	14350	36933	5699	2969	23840	29390	6524	7672	38638	4772	16007	2867	34701	19006	6300	25702	3363	3305	27561	17090	3573	4138	46459	13985	4103	8162	41627	43039	9185	30557	7078	All
+
+ ndc = 59
+
+GCF_000067165.1_ASM6716v1_genomic: Sorangium cellulosum 'So ce 56' complete genome.
+
+find_ori_ter:
+   Predicted Origin:   11361088
+   Predicted Terminus: 4880554
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+16553	191585	292026	19012	38973	4104	158867	49084	17908	211333	105059	6292	20819	213868	89602	16863	64559	10083	2023	125853	4146	5151	80734	2034	222700	126462	9074	473	11054	58452	5731	7998	75023	135306	15558	7070	90891	3533	22847	14704	166266	96971	12545	75814	2003	4034	41011	79902	5506	5834	69653	96014	2368	3615	143743	118686	7041	59099	11051	All
+
+ ndc = 59
+
+GCF_000165485.1_ASM16548v1_genomic: Stigmatella aurantiaca DW4/3-1, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   96900
+   Predicted Terminus: 5263981
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+18176	168278	148008	17223	22692	6720	98257	44529	32848	165227	91849	12198	30780	139154	74867	18361	51647	14002	983	83319	13707	8549	84756	1699	115900	170428	15274	737	33935	58767	11539	12100	90115	67700	18404	16502	96916	3327	11030	10024	107511	84060	16290	53096	7262	5767	60044	47088	8433	6907	79330	72814	4776	3751	72724	145246	11193	52160	14369	All
+
+ ndc = 59
+
+GCF_000175115.2_ASM17511v2_genomic: Geobacter sp. M18, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   0
+   Predicted Terminus: 2528344
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+15650	77675	46457	11253	17498	2250	59039	17178	28366	72140	49339	9591	12983	58405	39674	12621	22786	7371	7993	66186	6667	15530	58066	2639	48642	76974	17796	2128	11343	40912	5688	3139	25713	35170	6215	6565	45573	5095	17544	2788	40068	21299	7918	29423	3973	3818	31028	17944	3686	4244	55100	15414	4240	7805	45121	49197	10264	34707	7245	All
+
+ ndc = 59
+
+GCF_000210155.1_ASM21015v1_genomic: Geobacter sulfurreducens KN400, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   7869
+   Predicted Terminus: 1836170
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+13181	64473	27176	9528	10923	2896	39487	20137	27315	45060	32314	11377	13345	44905	24410	11404	15512	7377	4543	45308	12288	11926	33155	1345	39598	50162	14625	1026	6500	23544	8837	2383	23943	21064	4633	4189	26489	2903	7051	3825	25938	30656	7847	16228	3709	4184	19506	13681	3446	4150	37958	15416	4598	6390	30409	37315	12609	19671	9366	All
+
+ ndc = 59
+
+GCF_000255295.1_ASM25529v1_genomic: Corallococcus coralloides DSM 2259, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   28328
+   Predicted Terminus: 5246971
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+11705	136371	200380	11457	22885	3842	135948	20960	27844	156019	97070	3297	20712	170550	50773	18068	53481	9378	576	75344	8136	2873	88622	1066	99939	201118	7571	280	16648	58866	5833	6523	77500	90438	10740	5576	98613	1557	8182	7554	134684	64593	14332	47423	3687	4850	61509	44109	3590	3756	68013	93019	2994	2227	69430	168387	4608	54690	7070	All
+
+ ndc = 59
+
+GCF_000331735.1_ASM33173v1_genomic: Myxococcus stipitatus DSM 14675, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   21501
+   Predicted Terminus: 5332278
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+11442	136862	192908	13561	21121	6508	130156	23310	20705	174985	98528	3408	27587	151224	61656	21681	51946	12902	776	74583	10674	2759	86882	836	120618	182178	8294	191	25337	55488	7799	7232	82946	77885	15827	8501	92648	2439	10014	17989	127282	66854	17548	49367	5884	5318	60702	55844	5372	5208	65539	90461	4335	1626	88525	156024	5827	50190	10938	All
+
+ ndc = 59
+
+GCF_000817955.1_ASM81795v1_genomic: Geobacter pickeringii strain G13, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   0
+   Predicted Terminus: 1847843
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+9461	61687	31596	6588	10806	2275	37135	16285	20448	50311	33312	9176	11569	38398	32384	8681	14891	6376	3300	46891	8628	9909	36466	787	50268	38552	12232	798	4569	23816	7150	2019	21652	23370	3281	2828	26011	2464	5650	2736	24463	31793	6014	15594	2958	2758	19301	12962	2697	2667	37324	15084	2897	3988	35127	33786	9185	20417	7683	All
+
+ ndc = 59
+
+GCF_000827125.1_ASM82712v1_genomic: Geoalkalibacter subterraneus strain Red1, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   6021
+   Predicted Terminus: 1966225
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+11850	44196	25621	12818	9619	3514	29477	29295	37113	35393	22788	18618	12424	35747	18773	12744	11727	11751	2827	36201	16777	19790	22739	1680	21826	56082	16305	1976	11468	18434	12404	3034	18008	18523	7642	6980	31609	2918	4013	4934	34510	14898	11932	15920	5411	4711	15295	9746	5421	4945	27947	10176	5883	4304	26487	26754	14824	13807	12298	All
+
+ ndc = 59
+
+GCF_000961035.1_ASM96103v1_genomic: Geobacter sulfurreducens strain AM-1 genome.
+
+find_ori_ter:
+   Predicted Origin:   1832983
+   Predicted Terminus: 3979635
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+16508	75326	31956	11998	12841	3623	47086	25511	33862	54008	38762	14625	15996	52328	28258	13976	18624	9653	5657	53430	15649	16256	41353	1952	45742	59907	18228	1709	9102	28614	11314	3659	27079	25644	5947	6252	33163	4046	8784	5200	31536	35900	9987	19855	4921	5515	23010	16531	4522	5547	44734	18261	5824	7984	36629	42857	15406	23632	11984	All
+
+ ndc = 59
+
+GCF_001278055.1_ASM127805v1_genomic: Desulfuromonas soudanensis strain WTL chromosome, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   3954508
+   Predicted Terminus: 1274536
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+6878	76458	23797	8555	10663	2706	39433	20257	32330	45275	31082	15955	14017	44324	30453	10589	14567	8085	2478	48504	11469	15561	30216	1164	58400	49982	12812	1404	7826	22660	9910	1908	27305	22687	4714	5099	30577	2501	5819	3940	35989	23308	7543	18153	4349	2249	23199	11760	3264	3024	40402	12221	3476	2505	47067	23054	10163	19370	10250	All
+
+ ndc = 59
+
+GCF_001628815.1_ASM162881v1_genomic: Geobacter anodireducens strain SD-1 chromosome, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   3520709
+   Predicted Terminus: 1801634
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+9355	48356	20593	5930	8308	1856	29980	14123	20386	34368	24441	8404	9240	33857	18661	6986	11637	5485	3230	34619	8331	8691	25747	767	30078	37874	9969	682	4794	17449	6028	1812	18185	15641	3077	3084	19637	2166	6002	2264	20218	23899	5014	11850	2387	2764	14575	10049	2189	2751	27477	11374	2606	3924	22658	28468	8284	14836	6842	All
+
+ ndc = 59
+
+GCF_001888165.1_ASM188816v1_genomic: Pelobacter acetylenicus strain DSM 3246 chromosome, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   100920
+   Predicted Terminus: 1566520
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+9234	45417	21671	10487	8967	3913	23836	24525	31370	23109	18260	16406	10387	34601	13812	12516	8955	10060	4079	30537	13757	17748	17548	1266	15759	52461	12715	1896	12504	15393	10699	3197	14842	17612	5511	7310	25675	2765	5072	4313	24687	17137	9465	13384	4505	2822	14334	8340	3168	3709	25667	8775	3360	5467	21687	22490	12624	11572	10839	All
+
+ ndc = 59
+
+GCF_003574175.1_ASM357417v1_genomic: Geobacter sulfurreducens DNA, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   7869
+   Predicted Terminus: 1875169
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+13515	64119	26915	9808	10657	2905	39942	20533	28236	45409	32468	11689	13511	44390	24174	11653	15477	7543	4792	45459	12908	12542	33757	1647	39441	50125	15154	1158	6712	23589	9102	2645	23639	21010	4931	4503	26540	3061	7165	3907	25871	30631	7922	16242	3842	4438	19293	13548	3555	4377	37829	15274	4844	6777	30205	37156	12915	19759	9606	All
+
+ ndc = 59
+
+GCF_008330225.1_ASM833022v1_genomic: Geobacter sp. FeAm09 chromosome, complete genome.
+
+find_ori_ter:
+   Predicted Origin:   22031
+   Predicted Terminus: 1900056
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+10318	72695	29782	6676	12400	2448	39873	17901	27677	41510	31739	12097	8520	49996	26880	8630	15168	8540	5300	51194	8581	15995	34680	1245	28330	63195	9764	1377	10433	26943	9125	2452	22077	24800	3252	5930	30128	2567	7546	2019	29320	24784	6498	20174	3412	3048	22133	13007	2304	3627	40786	16614	2402	5227	32011	36236	8705	20723	10377	All
+
+ ndc = 59
+
+GCF_900187405.1_IMG-taxon_2728369264_annotated_assembly_genomic: Geobacter sp. DSM 9736 genome assembly, chromosome: I.
+
+find_ori_ter:
+   Predicted Origin:   2808941
+   Predicted Terminus: 1082158
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+22978	40343	28036	18290	11587	3758	34566	25646	34471	44235	33635	13513	22793	30599	27698	15529	13672	10856	14999	39058	14718	18876	36386	4509	37819	39525	25161	2155	7699	25650	12891	5092	17631	21338	10306	5756	29863	6184	13004	5797	18890	21889	10265	18084	5253	7303	20043	13930	6818	9724	28919	16058	8945	13478	28911	27517	16865	21156	11815	All
+
+ ndc = 59
+
+Geobacter_sp._SbR: Geobacter sp. SbR DNA, sequence01.
+
+find_ori_ter:
+   Predicted Origin:   537852
+   Predicted Terminus: 29854
+
+Agca	Agcc	Agcg	Agct	Ctgc	Ctgt	Dgac	Dgat	Egaa	Egag	Fttc	Fttt	Ggga	Gggc	Gggg	Gggt	Hcac	Hcat	Iata	Iatc	Iatt	Kaaa	Kaag	Lcta	Lctc	Lctg	Lctt	Ltta	Lttg	Naac	Naat	Pcca	Pccc	Pccg	Pcct	Qcaa	Qcag	Raga	Ragg	Rcga	Rcgc	Rcgg	Rcgt	Sagc	Sagt	Stca	Stcc	Stcg	Stct	Taca	Tacc	Tacg	Tact	Vgta	Vgtc	Vgtg	Vgtt	Ytac	Ytat	locus_tag
+2361	8444	3269	1810	1633	424	4628	3530	4840	5689	4388	1842	1958	6308	2823	1984	1825	1476	970	6965	1922	2469	4650	229	3150	9942	1498	217	1608	3387	1889	405	2604	3478	824	809	4762	505	1100	437	4015	2808	1348	2706	708	636	2843	2177	543	781	5484	1922	786	1243	4088	4566	1647	2664	1735	All
+
+ ndc = 59

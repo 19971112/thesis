@@ -1,0 +1,12 @@
+Can't locate File/ShareDir.pm in @INC (you may need to install the File::ShareDir module) (@INC contains: /home/haruo/g-language-1.9.1/lib /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/x86_64-linux-thread-multi /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2 /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/5.26.2/x86_64-linux-thread-multi /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/5.26.2 .) at /home/haruo/g-language-1.9.1/lib/G/IO/Handler.pm line 39.
+BEGIN failed--compilation aborted at /home/haruo/g-language-1.9.1/lib/G/IO/Handler.pm line 39.
+Compilation failed in require at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/base.pm line 100.
+	...propagated at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/base.pm line 109.
+BEGIN failed--compilation aborted at /home/haruo/g-language-1.9.1/lib/G/IO.pm line 33.
+Compilation failed in require at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/base.pm line 100.
+	...propagated at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/base.pm line 109.
+BEGIN failed--compilation aborted at /home/haruo/g-language-1.9.1/lib/G.pm line 34.
+Compilation failed in require at ../../scripts/each.pl line 2.
+BEGIN failed--compilation aborted at ../../scripts/each.pl line 2.
+Error in dev.off() : cannot shut down device 1 (the null device)
+Execution halted

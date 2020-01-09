@@ -1,0 +1,56 @@
+
+# This R script performs amino acid or codon usage analyses.
+#  Usage: Rscript --vanilla g_each.R . 
+
+GCF_000007985.2_ASM798v2_genomic_0R0.txt 
+GCF_000012685.1_ASM1268v1_genomic_0R0.txt 
+GCF_000012885.1_ASM1288v1_genomic_0R0.txt 
+GCF_000012925.1_ASM1292v1_genomic_0R0.txt 
+GCF_000015045.1_ASM1504v1_genomic_0R0.txt 
+GCF_000016745.1_ASM1674v1_genomic_0R0.txt 
+GCF_000020385.1_ASM2038v1_genomic_0R0.txt 
+GCF_000020725.1_ASM2072v1_genomic_0R0.txt 
+GCF_000022145.1_ASM2214v1_genomic_0R0.txt 
+GCF_000022265.1_ASM2226v1_genomic_0R0.txt 
+GCF_000023645.1_ASM2364v1_genomic_0R0.txt 
+GCF_000067165.1_ASM6716v1_genomic_0R0.txt 
+GCF_000165485.1_ASM16548v1_genomic_0R0.txt 
+GCF_000175115.2_ASM17511v2_genomic_0R0.txt 
+GCF_000210155.1_ASM21015v1_genomic_0R0.txt 
+GCF_000255295.1_ASM25529v1_genomic_0R0.txt 
+GCF_000331735.1_ASM33173v1_genomic_0R0.txt 
+GCF_000817955.1_ASM81795v1_genomic_0R0.txt 
+GCF_000827125.1_ASM82712v1_genomic_0R0.txt 
+GCF_000961035.1_ASM96103v1_genomic_0R0.txt 
+GCF_001278055.1_ASM127805v1_genomic_0R0.txt 
+GCF_001628815.1_ASM162881v1_genomic_0R0.txt 
+GCF_001888165.1_ASM188816v1_genomic_0R0.txt 
+GCF_003574175.1_ASM357417v1_genomic_0R0.txt 
+GCF_008330225.1_ASM833022v1_genomic_0R0.txt 
+GCF_900187405.1_IMG-taxon_2728369264_annotated_assembly_genomic_0R0.txt 
+Geobacter_sp._SbR_0R0.txt 
+pdf 
+  2 
+R version 3.6.1 (2019-07-05)
+Platform: x86_64-conda_cos6-linux-gnu (64-bit)
+Running under: CentOS Linux 7 (Core)
+
+Matrix products: default
+BLAS/LAPACK: /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/libmkl_rt.so
+
+locale:
+ [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=en_US.UTF-8        LC_COLLATE=en_US.UTF-8    
+ [5] LC_MONETARY=en_US.UTF-8    LC_MESSAGES=en_US.UTF-8   
+ [7] LC_PAPER=en_US.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=en_US.UTF-8 LC_IDENTIFICATION=C       
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ade4_1.7-13
+
+loaded via a namespace (and not attached):
+[1] MASS_7.3-51.3  compiler_3.6.1

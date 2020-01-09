@@ -1,0 +1,4 @@
+
+# This R script performs amino acid or codon usage analyses.
+#  Usage: Rscript --vanilla g_each.R . 
+
