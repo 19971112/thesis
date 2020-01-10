@@ -1,0 +1,5 @@
+CDS=4356	_gbk/_Geobacter_sp._SbR.gbk	gbk/Geobacter_sp._SbR.gbk	Geobacter sp. SbR DNA, sequence01.
+
+real	0m4.931s
+user	0m0.908s
+sys	0m0.073s

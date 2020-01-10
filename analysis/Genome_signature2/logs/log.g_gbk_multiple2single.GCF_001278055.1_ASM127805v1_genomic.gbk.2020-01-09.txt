@@ -1,0 +1,16 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=3508	_gbk/_GCF_001278055.1_ASM127805v1_genomic.gbk	gbk/GCF_001278055.1_ASM127805v1_genomic.gbk	Desulfuromonas soudanensis strain WTL chromosome, complete genome.
+
+real	0m6.322s
+user	0m2.328s
+sys	0m0.161s

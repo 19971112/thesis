@@ -1,0 +1,42 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=7340	_gbk/_GCF_000012685.1_ASM1268v1_genomic.gbk	gbk/GCF_000012685.1_ASM1268v1_genomic.gbk	Myxococcus xanthus DK 1622, complete genome.
+
+real	0m8.753s
+user	0m4.598s
+sys	0m0.249s

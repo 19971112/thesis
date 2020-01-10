@@ -1,0 +1,24 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=3486	_gbk/_GCF_900187405.1_IMG-taxon_2728369264_annotated_assembly_genomic.gbk	gbk/GCF_900187405.1_IMG-taxon_2728369264_annotated_assembly_genomic.gbk	Geobacter sp. DSM 9736 genome assembly, chromosome: I.
+
+real	0m5.265s
+user	0m1.294s
+sys	0m0.095s

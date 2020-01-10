@@ -1,0 +1,23 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=3354	_gbk/_GCF_003574175.1_ASM357417v1_genomic.gbk	gbk/GCF_003574175.1_ASM357417v1_genomic.gbk	Geobacter sulfurreducens DNA, complete genome.
+
+real	0m5.239s
+user	0m1.224s
+sys	0m0.095s

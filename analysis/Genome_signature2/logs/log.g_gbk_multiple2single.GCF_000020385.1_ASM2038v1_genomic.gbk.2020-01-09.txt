@@ -1,0 +1,19 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=3663	_gbk/_GCF_000020385.1_ASM2038v1_genomic.gbk	gbk/GCF_000020385.1_ASM2038v1_genomic.gbk	Geobacter lovleyi SZ, complete genome.
+
+real	0m6.050s
+user	0m2.216s
+sys	0m0.177s

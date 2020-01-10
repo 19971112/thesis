@@ -1,0 +1,29 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=3331	_gbk/_GCF_000210155.1_ASM21015v1_genomic.gbk	gbk/GCF_000210155.1_ASM21015v1_genomic.gbk	Geobacter sulfurreducens KN400, complete genome.
+
+real	0m5.854s
+user	0m2.057s
+sys	0m0.142s

@@ -1,0 +1,21 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=4124	_gbk/_GCF_000023645.1_ASM2364v1_genomic.gbk	gbk/GCF_000023645.1_ASM2364v1_genomic.gbk	Geobacter sp. M21, complete genome.
+
+real	0m6.250s
+user	0m2.434s
+sys	0m0.162s

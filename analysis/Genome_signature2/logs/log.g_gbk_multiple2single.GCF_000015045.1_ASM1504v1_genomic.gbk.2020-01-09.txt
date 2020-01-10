@@ -1,0 +1,12 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=3850	_gbk/_GCF_000015045.1_ASM1504v1_genomic.gbk	gbk/GCF_000015045.1_ASM1504v1_genomic.gbk	Pelobacter propionicus DSM 2379, complete genome.
+
+real	0m6.396s
+user	0m2.398s
+sys	0m0.169s

@@ -1,0 +1,19 @@
+Use of uninitialized value in subroutine entry at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 141, <DATA> line 549.
+Use of uninitialized value $_ in exponentiation (**) at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 142, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 143, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 144, <DATA> line 549.
+Use of uninitialized value $min in subtraction (-) at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 150, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 141, <DATA> line 549.
+Use of uninitialized value $_ in exponentiation (**) at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 142, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 143, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 144, <DATA> line 549.
+Use of uninitialized value $min in subtraction (-) at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 150, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 141, <DATA> line 549.
+Use of uninitialized value $_ in exponentiation (**) at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 142, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 143, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 144, <DATA> line 549.
+Use of uninitialized value $min in subtraction (-) at /mnt/gpfsA/home/t16965tw/miniconda3/envs/bio/lib/site_perl/5.26.2/Statistics/Descriptive/Full.pm line 150, <DATA> line 549.
+
+real	0m10.106s
+user	0m9.548s
+sys	0m0.196s

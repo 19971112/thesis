@@ -1,0 +1,31 @@
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 141, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 141, <DATA> line 549.
+Use of uninitialized value $_ in exponentiation (**) at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 142, <DATA> line 549.
+Use of uninitialized value $_ in exponentiation (**) at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 142, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 143, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 143, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 144, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 144, <DATA> line 549.
+Use of uninitialized value $min in subtraction (-) at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 150, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 141, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 141, <DATA> line 549.
+Use of uninitialized value $_ in exponentiation (**) at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 142, <DATA> line 549.
+Use of uninitialized value $_ in exponentiation (**) at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 142, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 143, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 143, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 144, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 144, <DATA> line 549.
+Use of uninitialized value $min in subtraction (-) at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 150, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 141, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 141, <DATA> line 549.
+Use of uninitialized value $_ in exponentiation (**) at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 142, <DATA> line 549.
+Use of uninitialized value $_ in exponentiation (**) at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 142, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 143, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 143, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 144, <DATA> line 549.
+Use of uninitialized value in subroutine entry at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 144, <DATA> line 549.
+Use of uninitialized value $min in subtraction (-) at /usr/local/share/perl5/Statistics/Descriptive/Full.pm line 150, <DATA> line 549.
+
+real	0m16.651s
+user	0m16.222s
+sys	0m0.279s

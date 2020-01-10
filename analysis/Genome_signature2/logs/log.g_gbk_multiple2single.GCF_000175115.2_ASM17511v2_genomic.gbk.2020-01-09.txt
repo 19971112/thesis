@@ -1,0 +1,31 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=4504	_gbk/_GCF_000175115.2_ASM17511v2_genomic.gbk	gbk/GCF_000175115.2_ASM17511v2_genomic.gbk	Geobacter sp. M18, complete genome.
+
+real	0m6.457s
+user	0m2.638s
+sys	0m0.170s

@@ -1,0 +1,27 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=3518	_gbk/_GCF_000827125.1_ASM82712v1_genomic.gbk	gbk/GCF_000827125.1_ASM82712v1_genomic.gbk	Geoalkalibacter subterraneus strain Red1, complete genome.
+
+real	0m5.759s
+user	0m1.960s
+sys	0m0.168s

@@ -1,0 +1,5 @@
+Failed to find shared file 'genomes/ecoli.gbk' for dist 'g-language' at /home/haruo/g-language-1.9.1/lib/G/IO.pm line 92.
+
+real	0m4.393s
+user	0m0.281s
+sys	0m0.088s

@@ -1,0 +1,27 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=4143	_gbk/_GCF_000961035.1_ASM96103v1_genomic.gbk	gbk/GCF_000961035.1_ASM96103v1_genomic.gbk	Geobacter sulfurreducens strain AM-1 genome.
+
+real	0m6.258s
+user	0m2.425s
+sys	0m0.184s

@@ -1,0 +1,19 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=3229	_gbk/_GCF_000012885.1_ASM1288v1_genomic.gbk	gbk/GCF_000012885.1_ASM1288v1_genomic.gbk	Pelobacter carbinolicus DSM 2380, complete genome.
+
+real	0m6.346s
+user	0m2.202s
+sys	0m0.156s

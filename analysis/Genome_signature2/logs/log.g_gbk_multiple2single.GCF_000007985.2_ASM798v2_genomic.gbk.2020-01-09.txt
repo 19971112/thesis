@@ -1,0 +1,5 @@
+CDS=3430	_gbk/_GCF_000007985.2_ASM798v2_genomic.gbk	gbk/GCF_000007985.2_ASM798v2_genomic.gbk	Geobacter sulfurreducens PCA chromosome, complete genome.
+
+real	0m6.092s
+user	0m2.099s
+sys	0m0.165s

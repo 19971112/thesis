@@ -1,0 +1,2 @@
+ACCESSION	GC	GC3s	S_value	Size	cds	delta_enc	highlyExpressed	rRNA	tRNA
+_Geobacter_sp._SbR	58.0	72.19	-0.1969	4662216	4356	-0.0740	42	2	50

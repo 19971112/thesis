@@ -1,0 +1,5 @@
+_GCF_000022145.1_ASM2214v1_genomic: Problem in codon usage (Fttc Fttt). S cannot be calculated. at sub G::Seq::Codon::S_value line 36, <DATA> line 461.
+
+real	0m10.226s
+user	0m9.340s
+sys	0m0.200s

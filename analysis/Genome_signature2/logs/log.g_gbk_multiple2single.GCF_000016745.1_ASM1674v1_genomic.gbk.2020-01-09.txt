@@ -1,0 +1,28 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=4504	_gbk/_GCF_000016745.1_ASM1674v1_genomic.gbk	gbk/GCF_000016745.1_ASM1674v1_genomic.gbk	Geobacter uraniireducens Rf4, complete genome.
+
+real	0m6.422s
+user	0m2.613s
+sys	0m0.177s

@@ -1,0 +1,21 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=3576	_gbk/_GCF_000012925.1_ASM1292v1_genomic.gbk	gbk/GCF_000012925.1_ASM1292v1_genomic.gbk	Geobacter metallireducens GS-15, complete genome.
+
+real	0m6.313s
+user	0m2.364s
+sys	0m0.148s

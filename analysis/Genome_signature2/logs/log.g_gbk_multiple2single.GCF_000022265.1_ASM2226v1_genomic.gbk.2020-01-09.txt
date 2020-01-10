@@ -1,0 +1,16 @@
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+Translation: illegal length.
+CDS=3785	_gbk/_GCF_000022265.1_ASM2226v1_genomic.gbk	gbk/GCF_000022265.1_ASM2226v1_genomic.gbk	Geobacter daltonii FRC-32, complete genome.
+
+real	0m6.282s
+user	0m2.482s
+sys	0m0.150s
